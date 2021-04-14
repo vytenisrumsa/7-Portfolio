@@ -1,0 +1,1 @@
+// is didziosios raides failas yra objektinis, is mazosios - funkcinis //

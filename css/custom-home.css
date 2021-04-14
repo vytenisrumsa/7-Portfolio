@@ -1,0 +1,32 @@
+/* init */ /* pagal svarbuma*/
+@import './init/reset.css';
+@import './init/variables.css';
+@import './init/layout.css';
+@import './init/base.css';
+/* 3rd party */
+@import './3rd-party/font-awesome.min.css';
+/* components */  /* pagal abecele */
+@import './components/achievements.css';
+@import './components/button.css';
+@import './components/footer.css';
+@import './components/header.css';
+@import './components/services.css';
+
+/* CUSTOM STILIUS SEKCIJOMS */
+/* header */
+/* hero */
+/* clients */
+/* services */
+/* about company */
+/* achievements */
+/* promo video */
+/* case studies */
+/* testimonials */
+/* blog */
+/* contacts */
+.contact-us .btn {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  
+  /* footer */
